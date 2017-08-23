@@ -5,7 +5,7 @@ h1{
 }
 
 div.scrollmenu {
-	background-color: #e28c1b;
+	background-color: white;
 	overflow: auto;
 	white-space: nowrap;
 }
