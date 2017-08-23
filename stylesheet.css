@@ -58,17 +58,3 @@ div.desc {
 </style>
 </head>
 <body>
-
-<div class="gallery">
-  <a target="_blank" href="atlanta.jpg">
-    <img src="atlanta.jpg" alt="Atlanta" width="300" height="200">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="jonbellion.jpg">
-    <img src="jonbellion.jpg" alt="JonBellion" width="300" height="200">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
